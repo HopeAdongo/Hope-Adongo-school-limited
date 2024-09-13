@@ -32,3 +32,4 @@ adongof@gmail.com
 Raising capital to combat HIV in Kenya
 We appreciate everyone and anybody who helps us in our effort to better the lives of Kenyan children. Please feel free to check out our GoFundMe page below if you want to donate!
 DONATE TODAY
+https://github.com/HopeAdongo/Hope-Adongo-school-limited.git
